@@ -9,3 +9,7 @@ Geben Sie die Summe der Zahlen in die Konsole aus:
 "Die Summe der Zahlen ist: summe"
 */
 
+let zahl1 = prompt("Bitte gib mir die ertse Zahl ein:");
+let zahl2 = prompt("Bitte gib mir die Zweite Zahl ein:");
+let summe = zahl1 + zahl2;
+console.log(summe);
