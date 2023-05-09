@@ -9,11 +9,15 @@ Geben Sie die Summe der Zahlen in die Konsole aus:
 "Die Summe der Zahlen ist: summe"
 */
 
+// Ansatz 1 (Fehlerhaft)
 // var zahl1 = prompt("Bitte gib mir die ertse Zahl ein:");
 // var zahl2 = prompt("Bitte gib mir die Zweite Zahl ein:");
 
 // console.log(zahl1+zahl2);
 
+
+
+// Ansatz 2 
 // let zahl1 = prompt("Bitte gib mir die ertse Zahl ein:");
 // let zahl2 = prompt("Bitte gib mir die ertse Zahl zwei:");
 
@@ -24,6 +28,8 @@ Geben Sie die Summe der Zahlen in die Konsole aus:
 
 
 
+
+// Ansatz 3 (Taschenrechner)
 let zahl1 = prompt("Bitte gib mir die ertse Zahl ein:");
 let zahl2 = prompt("Bitte gib mir die ertse Zahl zwei:");
 let operation = prompt("Welche Rechenoperation möchtest du durchführen? (+, -, *, /)");
